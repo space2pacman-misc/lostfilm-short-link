@@ -1,0 +1,36 @@
+._lostfilm-short-link {
+    padding: 10px 15px;
+}
+
+._lostfilm-short-link .inner-box--item {
+	border-bottom: 1px solid #bbbbbb;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+._lostfilm-short-link .inner-box--item:last-child {
+	border-bottom: none;
+}
+
+._lostfilm-short-link .inner-box--label {
+	color: #e74c3c;
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 700;
+}
+
+._lostfilm-short-link .inner-box--link.sub {
+	display: none;
+}
+
+._lostfilm-short-link .inner-box--link.main a {
+    font-size: 18px;
+}
+
+._lostfilm-short-link .inner-box--link.main a:before {
+    content: "Скачать: ";
+}
+
+._lostfilm-short-link .inner-box--desc {
+	margin-top: 10px;
+}
